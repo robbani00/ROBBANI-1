@@ -132,4 +132,3 @@ def random_subb(uid,pwx,fb,fb1):
 sykology()
 
 
-
